@@ -63,7 +63,17 @@ print('반복적으로 구현', factorial_iterative(5))
 print('재귀적으로 구현', factorial_recursive(5))
 
 #결과
-#반복적으로 구현 0
+#반복적으로 구현 120
 #재귀적으로 구현 120
 
+#5-6 인접 행렬 방식 예제
+INF = 999999999
+
+graph = [
+    [0, 7, 5],
+    [7, 0, INF],
+    [5, INF, 0]
+]
+
+print(graph)
 
