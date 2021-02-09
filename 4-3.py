@@ -77,8 +77,6 @@ print(count)
 
             
 
-
-
 #각주
 
 #방향과 dx dy 설정이 중요
