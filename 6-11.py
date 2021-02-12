@@ -24,7 +24,7 @@ for student in array:
 
 #[1] append 함수에는 input이 하나만 들어감. 그래서 input_data[0], input_data[1]을 하나로 묶어야함
 #[2] sorted & lambda 참고
-
+#출처 https://dailyheumsi.tistory.com/67
 a = [(1, 2), (0, 1), (5, 1), (5, 2), (3, 0)]
 
 # 인자없이 그냥 sorted()만 쓰면, 리스트 아이템의 각 요소 순서대로 정렬을 한다.
